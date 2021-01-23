@@ -6,11 +6,11 @@ namespace Metodlar
     {
         static void Main(string[] args)
         {
-            string urunAdi = "Elma";
-            double fiyati = 15;
-            string aciklama = "amasya Elması";
+            //string urunAdi = "Elma";
+            //double fiyati = 15;
+            //string aciklama = "amasya Elması";
 
-            string[] meyveler = new string[] { };
+            //string[] meyveler = new string[] { };
 
             Urun urun1 = new Urun();
             urun1.Adi = "Elma";
